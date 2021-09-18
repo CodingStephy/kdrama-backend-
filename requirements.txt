@@ -1,0 +1,8 @@
+flask
+requests
+sqlalchemy
+flask-cors
+passlib==1.7.4
+PyJWT==2.1.0
+bcrypt
+gunicorn
